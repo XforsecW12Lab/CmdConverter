@@ -151,3 +151,5 @@
 
   - 命令前的取消回显，数量不影响执行![image-20210323131651812](https://github.com/XforsecW12Lab/CmdConverter/raw/main/CMD%E6%B7%B7%E6%B7%86_Images/image-20210323131651812.png)
 
+**==思维导图可以通过公众号回复"cmd思维导图"获取!==**
+![QRcode](https://user-images.githubusercontent.com/49470951/112100856-b6c17900-8be0-11eb-9e3f-16805805e52d.png)
